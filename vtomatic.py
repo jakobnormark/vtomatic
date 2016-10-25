@@ -16,7 +16,7 @@ API_BASE_URL = 'https://api.vasttrafik.se/bin/rest.exe/v2'
 class VtOMatic:
     '''
     VtOMatic is a class that fetches information from
-    Västtrafik API "Reseplaneraren" v2
+    Vasttrafik API "Reseplaneraren" v2
     '''
     def __init__(self):
         '''
